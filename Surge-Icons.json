@@ -1,0 +1,15 @@
+{
+  "name": "Surge Icon",
+  "description": "Surge图标",
+  "icons":
+  [
+    {
+      "name": "微软",
+      "url": "https://raw.githubusercontent.com/Bigshowzyb/Surge-Icons/main/color/Microsoft.png"
+    },
+    {
+      "name": "Notion",
+      "url": "https://raw.githubusercontent.com/Bigshowzyb/Surge-Icons/main/color/Notion.png"
+    }
+  ]
+}
